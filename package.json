@@ -1,0 +1,26 @@
+{
+  "name": "taskmanagercli",
+  "version": "1.0.0",
+  "description": "This is a taskManager like you've never seen before",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavkonidena/taskManagerCLI.git"
+  },
+  "bin": {
+    "tman": "./bin/index.js"
+  },
+  "author": "Pranav Konidena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavkonidena/taskManagerCLI/issues"
+  },
+  "homepage": "https://github.com/pranavkonidena/taskManagerCLI#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "yargs": "^17.7.2"
+  }
+}
