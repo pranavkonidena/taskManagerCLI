@@ -17,3 +17,13 @@ Steps to setup a crone job :
 00 24 * * * <output to which node> <path to reduceDeadline.js>.
 ```
 3. This will set the deadlines to be reduced at 12 am in the morning.
+
+Demo
+
+<img width="1512" alt="Screenshot 2023-05-14 at 3 40 10 PM" src="https://github.com/pranavkonidena/taskManagerCLI/assets/122373207/b1dcdfa3-0aff-4bf2-ba0c-428f7768e727">
+
+Please stay tuned for an installation script. Ill make it soon.
+
+Made with ❤️ , Pranav
+
+
