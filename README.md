@@ -13,7 +13,7 @@ Steps to set up -
 Steps to setup a crone job :
 1. Open terminal, run crontab -e
 2. Enter the following: 
-'''
+```
 00 24 * * * <output to which node> <path to reduceDeadline.js>.
-'''
+```
 3. This will set the deadlines to be reduced at 12 am in the morning.
